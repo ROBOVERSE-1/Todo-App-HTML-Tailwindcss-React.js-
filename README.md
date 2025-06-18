@@ -28,7 +28,7 @@ Live Updates: Instantly reflects changes using React state.
 
 🧩 Technology Stack Breakdown
 
-<img  src="[https://www.keentodesign.com.au/cdn-cgi/imagedelivery/eOylWWvDYZyJkbAUtQZpuQ/www.keentodesign.com.au/html.png/w=768](https://raw.githubusercontent.com/ROBOVERSE-1/Todo-App-HTML-Tailwindcss-React.js-/refs/heads/main/ScreenShots/Screenshot%202025-06-18%20133741.png)" alt="">
+<img  src="https://raw.githubusercontent.com/ROBOVERSE-1/Todo-App-HTML-Tailwindcss-React.js-/refs/heads/main/ScreenShots/Screenshot%202025-06-18%20133741.png" alt="">
 
 
 1. HTML (HyperText Markup Language)
